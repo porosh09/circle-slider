@@ -8,8 +8,7 @@
 - [Settings](http://no81no.github.io/circle-slider/html/settings.html)
 
 ### Common Features
-- jQuery Circle Slider
-- Also known as Round Slider, Circular Slider or Radial Slider
+- *jQuery Circle Slider* also known as Round Slider, Circular Slider or Radial Slider
 - Supports the quarter, half and any other partial shapes
 - Supports ellipse shapes
 - Contains range slider types
@@ -24,7 +23,7 @@
 - Various gradient types
 
 ### License
-- The plugin is licensed under The MIT
+- The plugin is licensed under The MIT License
 
 ###Browser Compatibility
 - Internet Explorer 9+
