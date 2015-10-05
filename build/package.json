@@ -1,0 +1,18 @@
+{
+	"name": "CircleSlider",
+	"version": "1.0.505",
+	"author": "Miriam Zusin",
+	"devDependencies": {
+		"closurecompiler": "^1.3.2"
+	},
+	"source-files": [
+		"../js/sources/app.js",
+		"../js/sources/app/settings.js",
+		"../js/sources/app/vectors.js",
+		"../js/sources/app/effects.js",
+		"../js/sources/shapes/background-shape.js",
+		"../js/sources/shapes/path-shape.js",
+		"../js/sources/shapes/handle-shape.js",
+		"../js/sources/shapes/arrow-shape.js"
+	]
+}
