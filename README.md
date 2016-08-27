@@ -1,11 +1,11 @@
-# [jQuery Circle Slider Plugin](http://no81no.github.io/circle-slider/index.html)
+# [jQuery Circle Slider Plugin](http://jplist.com/circleslider/overview)
 
 
 ##Links
-- [Project Home](http://no81no.github.io/circle-slider/index.html)
-- [Examples](http://no81no.github.io/circle-slider/html/demo.html)
-- [Usage](http://no81no.github.io/circle-slider/html/usage.html)
-- [Settings](http://no81no.github.io/circle-slider/html/settings.html)
+- [Project Home](http://jplist.com/circleslider/overview)
+- [Examples](http://jplist.com/circleslider/demo)
+- [Usage](http://jplist.com/circleslider/usage)
+- [Settings](http://jplist.com/circleslider/settings)
 
 ### Common Features
 - *jQuery Circle Slider* also known as Round Slider, Circular Slider or Radial Slider
